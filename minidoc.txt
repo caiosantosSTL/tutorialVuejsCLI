@@ -1,0 +1,5 @@
+Comando para vue CLI
+    * npx vue ....
+
+Comando rodar sistema
+    * npm run serve
