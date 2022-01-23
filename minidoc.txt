@@ -3,3 +3,6 @@ Comando para vue CLI
 
 Comando rodar sistema
     * npm run serve
+
+Props // semelhante aos parametros de uma funcao, enviamos dados do componente Pai ao filho
+Emit // O componenete FIlho envia ao componente Pai um sinal de acao ou evento no componente Pai
